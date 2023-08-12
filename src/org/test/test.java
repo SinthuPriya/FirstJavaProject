@@ -3,7 +3,10 @@ package org.test;
 public class test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		int sum = 10;
+		String str = "Sinthuja";
+		System.out.println("My name is "+ str);
 
 	}
 
